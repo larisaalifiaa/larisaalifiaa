@@ -1,13 +1,6 @@
 <div align="center">
 
-<!--
-  💡 CARA PASANG GIF ANIME:
-  1. Cari GIF di https://tenor.com — search "anime girl cute" atau "anya forger"
-  2. Klik kanan → Copy image address
-  3. Ganti URL di bawah dengan link gif kamu
--->
-
-<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/spy-x-family-anya.gif" width="120" alt="anime gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 <br/>
 
@@ -15,13 +8,13 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=larisaalifiaa&style=flat&color=e8a0b4&label=visitors)
 
-</div>
-
 <br/>
 
 **`CS student · Andalas University · Padang, Indonesia`**
 
-I'm someone who likes figuring out how things work — web, data, or whatever catches my attention. Still in the process of building things and making a lot of mistakes along the way.
+</div>
+
+I'm someone who likes figuring out how things work — web, data, or whatever catches my attention. Still building things and making a lot of mistakes along the way.
 
 <br/>
 
@@ -63,5 +56,6 @@ I'm someone who likes figuring out how things work — web, data, or whatever ca
 ---
 
 <div align="center">
-<sub>📬 larisaalifiaa@gmail.com</sub>
+<br/>
+<sub>thanks for visiting 🌸 · larisaalifiaa@gmail.com</sub>
 </div>
