@@ -3,21 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="240"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2600&color=FF69B4&center=true&vCenter=true&width=760&lines=Computer+Science+Student;Web+Development+%E2%80%A2+UI%2FUX+%E2%80%A2+Data;Building+things+slowly+but+surely;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2800&color=FF69B4&center=true&vCenter=true&width=760&lines=Computer+Science+Student;Web+Development+%E2%80%A2+UI%2FUX+%E2%80%A2+Data;Building+and+exploring;Always+learning+something+new" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=larisaalifiaa&label=profile%20views&color=ff69b4&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/larisaalifiaa">
-    <img src="https://img.shields.io/badge/github-larisaalifiaa-1a1a1a?style=for-the-badge&logo=github&logoColor=ffc1da&labelColor=0d0d0d&color=ff69b4"/>
-  </a>
 </p>
 
 <p align="center">
