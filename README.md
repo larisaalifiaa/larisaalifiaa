@@ -24,10 +24,6 @@
 
 <div align="center">
 
-```yaml
-name: Larisa Alifia
-username: larisaalifiaa
-
 currently:
   studying computer science
   while slowly building things i genuinely enjoy
