@@ -37,7 +37,6 @@ interests:
   - web development
   - ui/ux design
   - data & information systems
-  - clean aesthetic interfaces
 
 learning:
   - backend stuff
