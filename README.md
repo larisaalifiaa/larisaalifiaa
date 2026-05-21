@@ -1,17 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d0d,30:1a1a1a,65:ff69b4,100:ffc1da&text=risa&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=soft%20tech%20developer%20space&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d0d0d,25:1a1a1a,60:ff69b4,100:ffc1da&text=hello%20i'm%20risa%20%E2%9C%A6&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=welcome%20to%20my%20little%20developer%20space&descAlignY=58&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="240"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2800&color=FF69B4&center=true&vCenter=true&width=760&lines=Computer+Science+Student;Web+Development+%E2%80%A2+UI%2FUX+%E2%80%A2+Data;Building+and+exploring;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2600&color=FF69B4&center=true&vCenter=true&width=760&lines=Computer+Science+Student;Web+Development+%E2%80%A2+UI%2FUX+%E2%80%A2+Data;Building+things+slowly+but+surely;Always+learning+something+new" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=larisaalifiaa&label=profile%20views&color=ff69b4&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/larisaalifiaa">
+    <img src="https://img.shields.io/badge/github-larisaalifiaa-1a1a1a?style=for-the-badge&logo=github&logoColor=ffc1da&labelColor=0d0d0d&color=ff69b4"/>
+  </a>
 </p>
 
 <p align="center">
@@ -24,26 +30,24 @@
 
 <div align="center">
 
+```yaml
+name: Larisa Alifia
+username: larisaalifiaa
+
 currently:
-  studying computer science
-  while slowly building things i genuinely enjoy
+  probably redesigning something
+  or opening 27 tabs for inspiration
 
-into:
+interests:
   - web development
-  - ui/ux exploration
-  - aesthetic digital experiences
+  - ui/ux design
   - data & information systems
-
-vibe:
-  calm layouts
-  soft pink palettes
-  late night coding
-  pinterest tabs always open
+  - clean aesthetic interfaces
 
 learning:
-  - backend development
-  - cleaner interfaces
-  - making ideas actually work
+  - backend stuff
+  - building better user experiences
+  - creating things that feel alive
 ```
 
 </div>
