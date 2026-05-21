@@ -1,56 +1,55 @@
 <div align="center">
 
-# Hi there! I'm Larisa Alifia Handini 👋
+# 🌸 Sweet Greetings from Larisa Alifia Handini ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=D4A373&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Web+%26+Mobile+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=🌸+Information+Systems+Student;🎨+Coding+with+Elegance;✨+Creating+Magic+with+Code;💖+Technology+%26+Design" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/larisaalifiaa">
-    <img src="https://komarev.com/ghpvc/?username=larisaalifiaa&color=ea9999&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=larisaalifiaa&color=ffb6c1&style=for-the-badge&label=VISITORS&labelColor=ffc0cb" alt="Visitor Counter" />
   </a>
 </p>
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💖 My Girly Tech Stack & Tools 💖
 
-🚀 **Backend & Frontend**
+🎀 **The Heart of Web Apps (Backend)**
 <p align="left">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Express.js-FFC0CB?style=for-the-badge&logo=express&logoColor=FF1493" alt="ExpressJS" />
+  <img src="https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=nodedotjs&logoColor=000000" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/JavaScript-FFE4E1?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-FDFD96?style=for-the-badge&logo=php&logoColor=6F42C1" alt="PHP" />
 </p>
 
-📊 **Data Science & Tools**
+🌸 **Styling & Creating Magic (Data & UI)**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge&logo=python&logoColor=FF8C00" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=00758F" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-E6E6FA?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Power_BI-FFE4E1?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="PowerBI" />
 </p>
 
 ---
 
-### 📊 GitHub Dashboard Analytics
+### 📊 Larisa's Sweet GitHub Dashboard
 
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="15" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=larisaalifiaa&show_icons=true&theme=radical&count_private=true" alt="Larisa's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=larisaalifiaa&show_icons=true&theme=default&bg_color=FFF0F5&text_color=FF1493&icon_color=FF69B4&title_color=FF69B4&border_color=FFC0CB" alt="Larisa's GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larisaalifiaa&layout=compact&theme=radical&langs_count=6" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larisaalifiaa&layout=compact&theme=default&bg_color=FFF0F5&text_color=FF1493&icon_color=FF69B4&title_color=FF69B4&border_color=FFC0CB&langs_count=6" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🐍 Contribution Snake Game
+### 🌸 Cute Contribution Snake Game 🌸
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larisaalifiaa/larisaalifiaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larisaalifiaa/larisaalifiaa/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larisaalifiaa/larisaalifiaa/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/larisaalifiaa/larisaalifiaa/output/github-contribution-grid-snake.svg">
 </picture>
