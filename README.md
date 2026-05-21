@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d0d0d,25:1a1a1a,60:ff69b4,100:ffc1da&text=risa&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=github%20profile%20portfolio&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d0d,30:1a1a1a,65:ff69b4,100:ffc1da&text=risa&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=soft%20tech%20developer%20space&descAlignY=58&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFhbGR6Nm9wcjQ0c3VwYWF6bG8zbDZ4N3M5Z2V2dW94bWd0a2x3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="240"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=3000&color=FF69B4&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Web+Development+%E2%80%A2+UI%2FUX+%E2%80%A2+Data;Building+and+exploring;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2800&color=FF69B4&center=true&vCenter=true&width=760&lines=Computer+Science+Student;Web+Development+%E2%80%A2+UI%2FUX+%E2%80%A2+Data;Building+and+exploring;Always+learning+something+new" />
 </p>
 
 <p align="center">
@@ -15,33 +15,39 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff69b4,100:0d0d0d&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff69b4,100:0d0d0d&height=2"/>
 </p>
 
 <br>
 
-# <p align="center">✦ about ✦</p>
+# <p align="center">✦ about me ✦</p>
 
 <div align="center">
 
 ```yaml
 name: Larisa Alifia
 username: larisaalifiaa
-education: Computer Science Student
-focus:
-  - Web Development
-  - UI/UX Design
-  - Data & Information Systems
 
-currently_learning:
-  - Backend Architecture
-  - Modern Frontend Experiences
-  - Data Processing & Visualization
+currently:
+  studying computer science
+  while slowly building things i genuinely enjoy
 
-interests:
-  - Minimal Interface Design
-  - Creative Development
-  - Aesthetic Digital Experiences
+into:
+  - web development
+  - ui/ux exploration
+  - aesthetic digital experiences
+  - data & information systems
+
+vibe:
+  calm layouts
+  soft pink palettes
+  late night coding
+  pinterest tabs always open
+
+learning:
+  - backend development
+  - cleaner interfaces
+  - making ideas actually work
 ```
 
 </div>
@@ -106,7 +112,7 @@ interests:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=larisaalifiaa&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&title=Stars,Followers,Commits,Repositories,PullRequest,Experience"/>
+<img src="https://github-profile-trophy.vercel.app/?username=larisaalifiaa&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
 
 </div>
 
