@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=110&width=600&text=📍+Padang,+Indonesia+%7C+🎓+Andalas+University&fontSize=14&fontColor=ffc1da&fontAlignY=35&desc=figuring+out+how+things+work,+one+bug+at+a+time&descFontSize=13&descFontColor=f8bbd0&descAlignY=65&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=16&pause=99999&color=FFC1DA&center=true&vCenter=true&multiline=true&repeat=false&height=80&width=650&lines=📍+Padang%2C+Indonesia+·+🎓+Andalas+University;figuring+out+how+things+work%2C+one+bug+at+a+time" />
 </p>
 
 <br>
@@ -75,5 +75,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNraDFjNm9memRhc3duYXZ6enZnc2tzeHg2bWkyNXdna2NqMXJsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cBPQQ4RgpEWPoHQS7j/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/cBPQQ4RgpEWPoHQS7j/giphy.gif" width="200"/>
 </p>
