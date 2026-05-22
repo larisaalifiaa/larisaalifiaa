@@ -17,11 +17,15 @@
 <br>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:1a1a1a&height=2&width=60&section=header"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=28&pause=99999&color=FF69B4&center=true&vCenter=true&width=500&lines=✦+about+me+✦" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=16&pause=99999&color=FFC1DA&center=true&vCenter=true&multiline=true&repeat=false&height=80&width=650&lines=📍+Padang%2C+Indonesia+·+🎓+Andalas+University;figuring+out+how+things+work%2C+one+bug+at+a+time" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=16&pause=99999&color=FFC1DA&center=true&vCenter=true&multiline=true&height=100&width=600&lines=cs+student+%40+andalas+university;padang%2C+indonesia+%F0%9F%8C%8F;figuring+out+how+things+work%2C+one+bug+at+a+time" />
 </p>
 
 <br>
@@ -75,5 +79,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/cBPQQ4RgpEWPoHQS7j/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNraDFjNm9memRhc3duYXZ6enZnc2tzeHg2bWkyNXdna2NqMXJsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cBPQQ4RgpEWPoHQS7j/giphy.gif" width="200"/>
 </p>
