@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:0d0d0d,30:1a1a1a,65:ff69b4,100:ffc1da&text=hello%20i'm%20risa%20%E2%9C%A6&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=welcome%20to%20my%20little%20developer%20space&descAlignY=58&descAlign=50"/>
 </p>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="230"/>
+  <img src="./penguin.gif" width="200"/>
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2600&color=FF69B4&center=true&vCenter=true&width=720&lines=Computer+Science+Student;Web+Development+%E2%80%A2+UI%2FUX+%E2%80%A2+Data;Building+and+exploring;Always+learning+something+new" />
 </p>
