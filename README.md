@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"(https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png) width="230"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2600&color=FF69B4&center=true&vCenter=true&width=720&lines=Computer+Science+Student;Web+Development+%E2%80%A2+UI%2FUX+%E2%80%A2+Data;Building+and+exploring;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&pause=2600&color=FF69B4&center=true&vCenter=true&width=720&lines=Computer+Science+Student;Web+Development+%E2%80%A2+UI%2FUX+%E2%80%A2+Data;Building+and+exploring;Always+learning+something+new" />
 </p>
 
 <p align="center">
@@ -16,18 +16,19 @@
 
 <br>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=28&pause=99999&color=FF69B4&center=true&vCenter=true&width=500&lines=✦+about+me+✦" />
+</p>
 
-```yaml
-name: Larisa Alifia
-focus: Web Development • UI/UX • Data
-currently: probably redesigning something at 2am
-learning: backend stuff & cleaner interfaces
-```
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1a1a1a&height=110&width=600&text=📍+Padang,+Indonesia+%7C+🎓+Andalas+University&fontSize=14&fontColor=ffc1da&fontAlignY=35&desc=figuring+out+how+things+work,+one+bug+at+a+time&descFontSize=13&descFontColor=f8bbd0&descAlignY=65&animation=fadeIn"/>
+</p>
 
 <br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=28&pause=99999&color=FF69B4&center=true&vCenter=true&width=500&lines=✦+tech+stack+✦" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,php,python,mysql,tailwind,figma,git,github,vscode&theme=dark"/>
@@ -36,43 +37,25 @@ learning: backend stuff & cleaner interfaces
 <br>
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=larisaalifiaa&show_icons=true&theme=transparent&hide_border=true&title_color=ff69b4&text_color=f8bbd0&icon_color=ff69b4"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larisaalifiaa&layout=compact&theme=transparent&hide_border=true&title_color=ff69b4&text_color=f8bbd0"/>
-
+  <img src="https://streak-stats.demolab.com?user=larisaalifiaa&theme=dark&hide_border=true&background=0D0D0D&ring=FF69B4&fire=FF69B4&currStreakLabel=FFC1DA&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0"/>
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=larisaalifiaa&theme=dark&hide_border=true&background=0D0D0D&ring=FF69B4&fire=FF69B4&currStreakLabel=FFC1DA&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=larisaalifiaa&bg_color=0d0d0d&color=ffc1da&line=ff69b4&point=f8bbd0&area=true&hide_border=true"/>
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=larisaalifiaa&bg_color=0d0d0d&color=ffc1da&line=ff69b4&point=f8bbd0&area=true&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=larisaalifiaa&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=larisaalifiaa&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 <br>
@@ -82,5 +65,15 @@ learning: backend stuff & cleaner interfaces
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=17&pause=4000&color=FFC1DA&center=true&vCenter=true&width=850&lines=Thanks+for+visiting+%E2%80%94+feel+free+to+reach+out+%E2%9C%A6+larisaalifiaa%40gmail.com"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&style=italic&size=20&pause=4000&color=FFC1DA&center=true&vCenter=true&width=850&lines=Thanks+for+visiting+%E2%80%94+feel+free+to+reach+out+%E2%9C%A6"/>
+</p>
+
+<p align="center">
+  <a href="mailto:larisaalifiaa@gmail.com">
+    <img src="https://img.shields.io/badge/larisaalifiaa@gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNraDFjNm9memRhc3duYXZ6enZnc2tzeHg2bWkyNXdna2NqMXJsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cBPQQ4RgpEWPoHQS7j/giphy.gif" width="200"/>
 </p>
